@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"Timo Netzer"
+	],
+	"copyright": "Copyright © 2025, Timo Netzer",
+	"description": "Estimate the time you need for a task. But with realistic numbers.",
+	"license": "MIT",
+	"name": "estimatee"
+}
