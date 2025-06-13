@@ -1,6 +1,8 @@
 import std.stdio;
 
+import estimate;
+
 void main()
 {
-	writeln("Edit source/app.d to start your project.");
+    Estimate(3, 7, 15).estimateTime.breakdown.writeln;
 }
